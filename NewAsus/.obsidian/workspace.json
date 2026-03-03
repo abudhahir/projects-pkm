@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "8d0a67552e50d2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f3bea1ebef25c4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68745419ee2715c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SKILLS/command-development/SKILL.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "SKILL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "864e3e822258dbad",
+    "type": "split",
+    "children": [
+      {
+        "id": "adcf3a6c73759687",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc675e170e23ece5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e66c5bef3d28d3cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65d6227defc95220",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "47ec2d389cf980e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b991deeb6bc0a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f18679f9e4c217",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SKILLS/command-development/SKILL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SKILL"
+            }
+          },
+          {
+            "id": "21d7238fc5f389b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SKILLS/command-development/SKILL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SKILL"
+            }
+          },
+          {
+            "id": "3531036c99b11f63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc837734447f19e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e175867a2c86e5b3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SKILLS/command-development/SKILL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SKILL"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c68745419ee2715c",
+  "lastOpenFiles": [
+    "SKILLS/handbook-extras/hooks/hooks.json",
+    "SKILLS/handbook-extras/commands/tools.md",
+    "SKILLS/handbook-extras/commands/save-prompt.md",
+    "SKILLS/handbook-extras/commands/reflect.md",
+    "SKILLS/handbook-extras/commands/prompt-generator.md",
+    "SKILLS/handbook-extras/commands/five-whys.md",
+    "SKILLS/handbook-extras/commands/explain.md",
+    "SKILLS/handbook-extras/agents/system-architect.md",
+    "SKILLS/handbook-extras/agents/pair-programmer.md",
+    "SKILLS/handbook-extras/agents/git-diff-analyzer.md",
+    "SKILLS/handbook-extras/agents/deep-research-agent.md",
+    "SKILLS/handbook-extras/agents/codebase-analyzer.md",
+    "SKILLS/handbook-extras/agents/backend-architect.md",
+    "SKILLS/handbook-extras/README.md",
+    "SKILLS/handbook-extras/hooks",
+    "SKILLS/handbook-extras/commands",
+    "SKILLS/handbook-extras/agents",
+    "SKILLS/handbook-extras",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode/references/task-planning-guide.md",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode/assets/task-template.md",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode/assets/plan-template.md",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode/SKILL.md",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode/references",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode/assets",
+    "SKILLS/handbook-structured-plan-mode/skills/structured-plan-mode",
+    "SKILLS/handbook-structured-plan-mode/skills",
+    "SKILLS/handbook-structured-plan-mode/README.md",
+    "SKILLS/handbook-structured-plan-mode",
+    "SKILLS/handbook-glab/skills/glab-skill/references/troubleshooting.md",
+    "SKILLS/handbook-glab/skills/glab-skill/references/quick-reference.md",
+    "SKILLS/handbook-glab/skills/glab-skill/references/commands-detailed.md",
+    "SKILLS/handbook-glab/skills/glab-skill/SKILL.md",
+    "SKILLS/handbook-glab/skills/glab-skill/references",
+    "SKILLS/handbook-glab/README.md",
+    "SKILLS/handbook-git-worktree/skills/git-worktree/SKILL.md",
+    "SKILLS/handbook-git-worktree/README.md"
+  ]
+}
