@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SKILLS/command-development/SKILL.md",
+                "file": "SKILLS/interesting links.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "SKILL"
+              "title": "interesting links"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SKILLS/command-development/SKILL.md",
+                "file": "SKILLS/interesting links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SKILL"
+              "title": "Backlinks for interesting links"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SKILLS/command-development/SKILL.md",
+                "file": "SKILLS/interesting links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SKILL"
+              "title": "Outgoing links from interesting links"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SKILLS/command-development/SKILL.md",
+                "file": "SKILLS/interesting links.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SKILL"
+              "title": "Outline of interesting links"
             }
           }
         ]
@@ -185,17 +185,26 @@
   },
   "active": "c68745419ee2715c",
   "lastOpenFiles": [
+    "current/github-copilot-sdk/README.md",
+    "current/github-copilot-sdk/GitHub Copilot SDK.md",
+    "current/github-copilot-sdk",
+    "current",
+    "SKILLS/Skills.base",
+    "SKILLS/interesting links.md",
+    "llms.txt/generatorss/interesting links.md",
+    "Dicsovery/diagram-as-a-code/discovery.md",
+    "llms.txt/generatorss",
+    "SKILLS/command-development/SKILL.md",
+    "Dicsovery/diagram-as-a-code",
+    "Dicsovery",
     "SKILLS/visual-explainer/templates/slide-deck.html",
     "SKILLS/visual-explainer/templates/mermaid-flowchart.html",
     "SKILLS/visual-explainer/templates/data-table.html",
     "SKILLS/visual-explainer/templates/architecture.html",
-    "SKILLS/visual-explainer/templates",
     "SKILLS/visual-explainer/references/slide-patterns.md",
     "SKILLS/visual-explainer/references/responsive-nav.md",
     "SKILLS/visual-explainer/references/libraries.md",
     "SKILLS/visual-explainer/references/css-patterns.md",
-    "SKILLS/visual-explainer/references",
-    "SKILLS/visual-explainer/package.json",
     "SKILLS/visual-explainer/SKILL.md",
     "SKILLS/visual-explainer/README.md",
     "prompts/vis-expl/plan-review.md",
@@ -205,10 +214,6 @@
     "prompts/vis-expl/generate-slides.md",
     "prompts/vis-expl/fact-check.md",
     "prompts/vis-expl/diff-review.md",
-    "prompts/vis-expl",
-    "prompts",
-    "llms.txt/MCP/llms-full.txt",
-    "llms.txt/MCP/Unconfirmed 888542.crdownload",
     "SKILLS/visual-explainer/prompts/project-recap.md",
     "SKILLS/visual-explainer/prompts/plan-review.md",
     "SKILLS/visual-explainer/prompts/generate-web-diagram.md",
@@ -216,11 +221,6 @@
     "SKILLS/visual-explainer/prompts/generate-slides.md",
     "SKILLS/visual-explainer/prompts/fact-check.md",
     "SKILLS/visual-explainer/prompts/diff-review.md",
-    "SKILLS/visual-explainer/CHANGELOG.md",
-    "SKILLS/visual-explainer/banner.png",
-    "README.md",
-    "SKILLS/handbook-qa/README.md",
-    "SKILLS/handbook-extras/commands/tools.md",
-    "SKILLS/handbook-extras/commands/save-prompt.md"
+    "SKILLS/visual-explainer/banner.png"
   ]
 }
