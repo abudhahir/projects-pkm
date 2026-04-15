@@ -1,0 +1,366 @@
+6/27/23, 10:32 - Messages to yourself are end-to-end encrypted. No one else, not even WhatsApp, can read, listen to, or share them. Learn more.
+6/27/23, 10:32 - Abu: https://blog.joberty.de/best-github-repositories/
+7/6/23, 07:43 - Abu: https://education.oracle.com/oracle-oci-certification#oracle-cloud-applications
+7/6/23, 09:57 - Abu: https://levelup.gitconnected.com/building-a-pdf-chat-app-using-langchain-openai-api-streamlit-3d95c27bda0
+7/7/23, 06:24 - Abu: https://analyticsindiamag.com/top-7-generative-ai-courses-by-andrew-ng/
+7/25/23, 05:28 - Abu: https://www.makeuseof.com/visual-studio-code-extensions-you-need/
+7/26/23, 06:24 - Abu: https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/
+7/27/23, 05:36 - Abu: https://analyticsindiamag.com/top-10-free-specialised-courses-by-andrew-ng/
+7/27/23, 05:38 - Abu: https://finance.yahoo.com/news/15-deep-learning-courses-high-180612444.html
+7/27/23, 05:42 - Abu: https://www.zhaw.ch/de/engineering/weiterbildung/detail/kurs/wbk-machine-learning-and-deep-learning-for-finance?gclid=Cj0KCQjwiIOmBhDjARIsAP6YhSUUswkmaiy1xV3iMe80qFf_Lrv3ogvnyKRVGjgjaDGVOoGAiIdGuyIaAkarEALw_wcB#objectives-content
+
+
+Uni course
+7/27/23, 05:44 - Abu: https://www.baeldung.com/java-ai
+7/28/23, 07:41 - Abu: https://analyticsindiamag.com/6-brilliant-video-resources-on-generative-ai-by-andrej-karpathy/
+7/29/23, 06:35 - Abu: https://content.techgig.com/upskilling-at-techgig/best-free-generative-ai-aws-courses-for-developers/articleshow/102191131.cms
+7/30/23, 19:57 - Abu: https://www.analyticsinsight.net/top-10-github-repositories-for-data-science-in-2023/
+7/31/23, 15:27 - Abu: https://analyticsindiamag.com/top-7-generative-ai-courses-by-aws/
+8/9/23, 11:00 - Abu: https://www.alphr.com/best-obsidian-plugins/
+8/10/23, 08:06 - Abu: https://dev.to/github/building-an-ai-powered-decentralized-app-for-time-management-88l
+8/10/23, 20:15 - Abu: https://beebom.com/best-prompt-engineering-courses/
+8/12/23, 13:26 - Abu: https://www.boredpanda.com/dark-humor-comics-toothybj-part-5/
+8/13/23, 09:11 - Abu: https://www.marktechpost.com/2023/08/09/meet-metagpt-the-open-source-ai-framework-that-transforms-gpts-into-engineers-architects-and-managers/
+8/15/23, 18:53 - Abu: https://vadimkravcenko.com/shorts/managing-bad-engineers/
+8/18/23, 07:02 - Abu: https://bdtechtalks.com/2023/08/14/llm-api-server-nocode/
+
+*Nice...*
+8/18/23, 18:40 - Abu: https://www.geeky-gadgets.com/personal-ai-assistant/#google_vignette
+8/23/23, 06:46 - Abu: https://www.theverge.com/2023/8/22/23840571/meta-multilingual-speech-translation-model-ai
+8/26/23, 06:06 - Abu: https://huggingface.co/blog/codellama
+8/26/23, 10:40 - Abu: https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/
+8/27/23, 12:13 - Abu: https://www.youtube.com/watch?v=rlCe_lG4uhk
+8/27/23, 12:21 - Abu: https://itnext.io/building-a-chrome-extension-with-flutter-a-step-by-step-guide-ea7260c0c452
+8/29/23, 08:04 - Abu: https://www.infoworld.com/article/3705253/python-based-textual-apps-are-coming-to-the-web.html
+8/29/23, 09:12 - Abu: https://github.com/spring-projects-experimental/spring-ai/blob/main/README.md
+9/1/23, 07:04 - Abu: https://dev.to/pavanbelagatti/a-beginners-guide-to-building-llm-powered-applications-with-langchain-2d6e
+9/1/23, 20:37 - Abu: https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/
+9/7/23, 06:46 - Abu: https://dev.to/documatic/advanced-git-commands-and-workflows-a-comprehensive-guide-for-developers-5865
+9/7/23, 09:27 - Abu: https://www.youtube.com/watch?v=zy8slvenGxc
+9/7/23, 09:29 - Abu: https://www.youtube.com/watch?v=pTmIoKUeU-A
+9/7/23, 20:28 - Abu: https://dev.to/zvone187/gpt-pilot-a-dev-tool-that-writes-95-of-coding-tasks-dem
+9/9/23, 08:14 - Abu: https://www.analyticsinsight.net/10-python-machine-learning-tutorials-that-will-make-you-a-pro/
+9/16/23, 11:07 - Abu: https://dev.to/imadadrees/ultimate-guide-best-books-for-data-science-with-ratings-for-all-levels-42ol
+9/17/23, 22:03 - Abu: <Media omitted>
+9/28/23, 19:05 - Abu: https://m.youtube.com/watch?v=WL7V9JUy2sE
+9/28/23, 19:11 - Abu: https://gizmodo.com/how-to-use-freedomgpt-for-free-chatgpt-alternatives-1850870965
+9/29/23, 04:38 - Abu: https://brianchristner.io/discover-the-top-5-obsidian-chatgpt-plugins-for-ultimate-productivity/
+9/29/23, 04:42 - Abu: https://www.youtube.com/watch?v=XX2XpqklUrE
+10/11/23, 05:48 - Abu: https://noted.lol/llamagpt/
+10/13/23, 16:11 - Abu: https://www.freecodecamp.org/news/write-better-java-code-pattern-matching-sealed-classes/
+10/14/23, 21:47 - Abu: https://noted.lol/continue/
+10/28/23, 05:07 - Abu: https://www.infoworld.com/article/3708689/6-generative-ai-python-projects-to-run-now.html
+11/5/23, 06:32 - Abu: https://quansight.com/post/unveiling-ragna-an-open-source-rag-based-ai-orchestration-framework-designed-to-scale-from-research-to-production/
+11/10/23, 19:41 - Abu: <Media omitted>
+11/22/23, 05:55 - Abu: https://pulse.microsoft.com/en/category/microsoft-tech-briefings-en/?mkt_tok=MTU3LUdRRS0zODIAAAGPkgWiiLvBi6q7n-WX6ztxUUX_itA3u7RO67SbCSBu6TUMZfJq-UCjMug9LjrmBcn-ZlaFx1SO9oPcXImx3uhNaDhY6mT_52yLc9ol781mLDUWorz3T38MzM3z
+11/26/23, 08:03 - Abu: https://huggingface.co/blog/starcoder
+11/26/23, 08:12 - Abu: https://github.com/Binary-Bytes/Auto-YouTube-Shorts-Maker
+11/26/23, 08:15 - Abu: https://github.com/MambaCodes/BeAnonymous
+11/26/23, 08:17 - Abu: https://github.com/prannayk/videoMultiGAN
+11/26/23, 08:19 - Abu: https://github.com/AlekseyKorshuk/clip-gan
+11/30/23, 09:00 - Abu: https://simonwillison.net/2023/Nov/29/llamafile/
+12/3/23, 08:25 - Abu: https://youtu.be/lbFmceo4D5E?si=HBhnz2ueEljDGILt
+12/7/23, 07:23 - Abu: https://youtu.be/ofba0fUSpRE?si=ek2jH2RX1ZpFnuBr
+12/11/23, 06:44 - Abu: https://www.google.com/search?q=flutter+starter+kit+paid&oq=flutter+starter+kit+paid&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigAdIBCDk0NzdqMGo3qAIAsAIA&client=ms-android-samsung-gn-rev1&sourceid=chrome-mobile&ie=UTF-8
+12/11/23, 06:48 - Abu: https://apparencekit.dev/
+.
+* interesting twmplate*
+12/11/23, 06:58 - Abu: https://medevel.com/flutter-app-starters/
+12/14/23, 08:28 - Abu: https://bdtechtalks.com/2023/08/14/llm-api-server-nocode/
+12/15/23, 07:09 - Abu: https://www.analyticsinsight.net/10-python-automation-project-ideas-for-beginners-in-2024/
+12/16/23, 06:41 - Abu: https://future.mozilla.org/blog/introducing-llamafile/
+12/17/23, 01:38 - Abu: https://www.youtube.com/watch?v=ucov1AWvGEc
+12/26/23, 03:30 - Abu: https://hackernoon.com/how-to-use-an-uncensored-ai-model-and-train-it-with-your-data
+12/28/23, 10:05 - Abu: Shadcn/ui
+12/28/23, 10:47 - Abu: https://dev.to/nasif2ahmed/drag-and-drop-kanban-board-from-scratch-with-react-1j9a
+12/29/23, 14:20 - Abu: https://www.infoq.com/news/2023/12/quarkus-langchain-llm-integratio/
+12/30/23, 00:11 - Abu: https://www.infoq.com/news/2023/12/quarkus-langchain-llm-integratio/
+12/30/23, 00:13 - Abu: https://github.com/langchain4j
+12/30/23, 02:39 - Abu: https://www.infoq.com/news/2023/12/stable-diffusion-in-java/
+1/1/24, 14:22 - Abu: https://en.softonic.com/articles/free-ai-courses-ibm-offers-you-the-foundations-of-artificial-intelligence
+1/3/24, 04:05 - Abu: https://venturebeat.com/ai/open-source-ai-voice-cloning-arrives-with-myshells-new-openvoice-model/
+1/3/24, 06:55 - Abu: https://youtu.be/FK25ipZPg30?si=S_VC08keXzWuLAQT
+1/6/24, 06:29 - Abu: https://www.youtube.com/watch?v=tnejrr-0a94
+1/6/24, 06:54 - Abu: Nitrite.
+1/6/24, 07:57 - Abu: https://www.zdnet.com/article/have-10-hours-ibm-will-train-you-in-ai-fundamentals-for-free/
+
+
+#important
+1/6/24, 08:16 - Abu: https://github.com/nitrite/nitrite-java
+
+
+#important
+1/13/24, 13:14 - Abu: https://www.youtube.com/watch?v=xPd8FFzIeOw
+1/19/24, 08:16 - Abu: https://developers.redhat.com/articles/2024/01/17/monolith-microservices-breaking-down-apps-useful-way
+1/24/24, 16:21 - Abu: Speckyboy react components libraries tools
+1/27/24, 07:48 - Abu: https://www.gradio.app/guides/creating-a-chatbot-fast
+1/28/24, 18:27 - Abu: https://www.analyticsvidhya.com/blog/2024/01/ultimate-list-of-generative-ai-resources/
+1/30/24, 06:17 - Abu: https://www.xda-developers.com/how-to-run-llama-2-locally-on-your-pc/#:~:text=You%27ll%20need%20the%20following,An%20internet%20connection
+2/1/24, 06:10 - Abu: https://dev.to/copilotkit/im-building-an-ai-project-here-are-the-libraries-im-going-to-use-pd0
+2/13/24, 19:38 - Abu: https://www.nvidia.com/en-us/ai-on-rtx/chat-with-rtx-generative-ai/
+3/1/24, 07:27 - Abu: https://techcrunch.com/2024/02/28/starcoder-2-is-a-code-generating-ai-that-runs-on-most-gpus/
+3/1/24, 12:57 - Abu: Udt6..6$1
+3/2/24, 05:45 - Abu: https://www.youtube.com/watch?v=MvNdgmM7uyc
+3/7/24, 06:05 - Abu: https://spring.io/blog/2024/03/06/function-calling-in-java-and-spring-ai-using-the-latest-mistral-ai-api
+3/16/24, 19:02 - Abu: https://www.kdnuggets.com/5-ways-to-use-llms-on-your-laptop
+3/20/24, 06:06 - Abu: https://dev.to/copilotkit/how-to-build-an-ai-powered-powerpoint-generator-langchain-copilotkit-openai-nextjs-4c76
+3/22/24, 17:35 - Abu: https://www.youtube.com/watch?v=FgTYqJVNdkU
+3/23/24, 21:58 - Abu: https://www.youtube.com/watch?v=50mhP1SBTis
+4/13/24, 03:15 - Abu: https://dzone.com/java
+4/16/24, 03:08 - Abu: https://www.marktechpost.com/2024/04/14/top-artificial-intelligence-ai-courses-on-coursera/
+4/17/24, 15:20 - Abu: https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76
+4/22/24, 06:52 - Abu: https://www.marktechpost.com/2024/04/20/3-ways-to-run-llama-3-on-your-pc-or-mac/
+5/4/24, 09:53 - Abu: https://www.marktechpost.com/2024/04/30/scrapegraphai-a-web-scraping-python-library-that-uses-llms-to-create-scraping-pipelines-for-websites-documents-and-xml-files/
+5/8/24, 15:20 - Abu: https://www.kdnuggets.com/ollama-tutorial-running-llms-locally-made-super-simple
+5/19/24, 08:32 - Abu: https://analyticsindiamag.com/10-free-courses-to-build-ai-agents-in-2024/
+5/23/24, 07:11 - Abu: https://youtu.be/o9NVLXKRKeY?si=iCszuHTTkFtlX8Rj
+5/26/24, 22:12 - Abu: https://github.com/marcushellberg/java-ai-playground
+5/27/24, 06:53 - Abu: https://github.com/topics/flutter-quiz-app
+5/29/24, 06:25 - Abu: https://github.com/enricoros/big-AGI
+5/30/24, 06:03 - Abu: https://coursera.org/professional-certificates/meta-front-end-developer
+5/31/24, 07:30 - Abu: https://www.marktechpost.com/2024/05/29/what-are-ai-agents-how-do-you-make-one-understand-the-basics/
+
+#agents
+6/17/24, 18:41 - Abu: <Media omitted>
+7/10/24, 07:22 - Abu: https://dev.to/copilotkit/17-libraries-to-become-a-react-wizard-1g6k
+7/10/24, 10:28 - Abu: https://huggingface.co/blog/Xenova/run-gemini-nano-in-your-browser
+7/14/24, 10:10 - Abu: https://www.freecodecamp.org/news/generics-in-java/
+7/16/24, 05:52 - Abu: https://thenewstack.io/make-pgvector-faster-than-pinecone-and-75-cheaper-with-this-new-open-source-extension/
+7/19/24, 08:53 - Abu: https://youtu.be/sAPGw0SD1DE?si=u0V9uXAMES7yhCbS
+7/24/24, 07:04 - Abu: https://dev.to/github20k/i-10xd-my-coding-productivity-using-this-ai-tool-i-wish-i-had-known-it-earlier-2eoo
+8/1/24, 11:13 - Abu: www.mietbus-ria.ch/admin
+ria_admin
+pPzVhlbQWf%uFC6n1V
+If this password does not work 
+Use the same password which I sent yesterday.
+8/2/24, 18:31 - Abu: Learn RAG Fundamentals and Advanced Techniques https://www.freecodecamp.org/news/learn-rag-fundamentals-and-advanced-techniques/
+8/2/24, 18:37 - Abu: https://machinelearningmastery.com/7-free-resource-to-master-llms/
+9/10/24, 18:53 - Abu: Introduction   React is one of the most used frameworks for building frontend today. With... https://dev.to/surajondev/github-repos-essential-for-every-react-developer-464m
+9/20/24, 09:50 - Abu: https://www.anthropic.com/news/contextual-retrieval
+10/8/24, 13:32 - Abu: https://dev.to/sachinchaurasiya/how-to-build-a-collaborative-editor-with-nextjs-and-liveblocks-389m
+10/10/24, 20:08 - Abu: https://www.freecodecamp.org/news/build-a-documentation-site-using-react-and-docusaraus/
+10/14/24, 05:33 - Abu: https://www.producthunt.com/posts/latitude-7
+10/22/24, 11:09 - Abu: https://github.com/Mintplex-Labs/anything-llm
+10/30/24, 04:52 - Abu: https://developer.nvidia.com/blog/creating-rag-based-question-and-answer-llm-workflows-at-nvidia/
+11/3/24, 09:18 - Abu: https://aws.amazon.com/blogs/aws/fine-tuning-for-anthropics-claude-3-haiku-model-in-amazon-bedrock-is-now-generally-available/
+11/11/24, 00:48 - Abu: https://inf.ethz.ch/continuing-education/CAS-AIS.html
+11/27/24, 05:43 - Abu: https://dev.to/bytefer/ollama-ocr-for-high-precision-ocr-with-ollama-4o31
+12/12/24, 09:56 - Abu: https://dev.to/hanzla-baig/100-free-apis-for-developers-in-2024-1jfi
+12/12/24, 09:58 - Abu: https://venturebeat.com/ai/google-unveils-ai-coding-assistant-jules-promising-autonomous-bug-fixes-and-faster-development-cycles/
+12/22/24, 02:42 - Abu: https://github.com/huggingface/transformers.js-examples/tree/main/moonshine-web
+12/25/24, 10:17 - Abu: https://github.com/tech-srl/code2vec
+1/26/25, 08:34 - Abu: https://www.decathlon.ch/de/p/laufband-13-km-h-43-121-cm-t520b-komfort/_/R-p-160872
+
+
+#treadmill
+1/26/25, 08:36 - Abu: https://www.decathlon.ch/en/p/tapis-de-course-connecte-run500-pliage-compact-10percent-inclinaison-motorisee/_/R-p-306855
+1/29/25, 06:03 - Abu: https://www.marktechpost.com/2025/01/27/building-a-retrieval-augmented-generation-rag-system-with-deepseek-r1-a-step-by-step-guide/
+2/3/25, 19:20 - Abu: Spring AI with DeepEval: Prompt Tuning and Automated Evaluation | by Udayani V | Dec, 2024 | Medium https://search.app/uSzCAfBU6YYrWwEM7
+2/4/25, 09:20 - Abu: Guaranteed Structured Outputs (JSON) with OpenAI ✨ - DEV Community https://search.app/bE8LPZk3CA7Q4d8p9
+2/7/25, 04:51 - Abu: https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/
+2/7/25, 04:59 - Abu: https://medium.com/@bless2k/low-latency-java-part-i-f3c29b9f5bed
+2/7/25, 05:05 - Abu: https://questdb.com/blog/billion-row-challenge-step-by-step/
+2/7/25, 05:43 - Abu: https://coolify.io/docs/installation/
+2/14/25, 21:36 - Abu: https://machinelearningmastery.com/prompt-engineering-patterns-successful-rag-implementations/
+2/14/25, 21:38 - Abu: https://www.qodo.ai/blog/evaluating-rag-for-large-scale-codebases/
+3/2/25, 03:08 - Abu: https://www.instagram.com/p/DGf9w8woiYC/?img_index=7&igsh=ZHhma3Iwc3Boc25o
+3/8/25, 08:48 - Abu: https://medium.com/@dzmitry.ashkinadze/create-your-own-genai-agent-for-gitlab-mr-reviews-53c15254c321
+3/9/25, 09:34 - Abu: https://www.kdnuggets.com/deploying-deepseek-janus-pro-locally
+3/20/25, 05:03 - Abu: https://www.cerbos.dev/blog/best-open-source-tools-software-architects
+3/25/25, 16:59 - Abu: Devoxx genie
+3/25/25, 17:37 - Abu: https://github.com/mukel/llama3.java
+4/17/25, 06:03 - Abu: https://build.nvidia.com/crewai/code-documentation-for-software-development
+4/17/25, 07:12 - Abu: https://www.kaggle.com/whitepaper-prompt-engineering
+4/18/25, 07:30 - Abu: https://dev.to/copilotkit/30-mcp-ideas-with-complete-source-code-d8e
+4/25/25, 10:54 - Abu: MarkItDown: Microsoft’s open-source tool for Markdown conversion
+
+Source: InfoWorld
+ https://search.app/eyRkE
+
+Shared via the Google App
+4/27/25, 18:41 - Abu: https://www.marktechpost.com/2025/04/25/a-comprehensive-tutorial-on-the-five-levels-of-agentic-ai-architectures-from-basic-prompt-responses-to-fully-autonomous-code-generation-and-execution/
+4/30/25, 21:29 - Abu: https://github.com/punkpeye/awesome-mcp-servers
+5/1/25, 07:33 - Abu: https://github.com/e2b-dev/awesome-ai-agents
+5/1/25, 07:39 - Abu: https://genai.works/mcp-servers/GitLab-MCP-Server
+5/1/25, 07:40 - Abu: https://github.com/zereight/gitlab-mcp
+5/3/25, 18:43 - Abu: https://www.copilotkit.ai/blog/add-an-mcp-client-to-any-react-app-in-under-30-minutes/
+5/9/25, 05:57 - Abu: https://www.google.com/search?q=ggradio+mcp+client+with+azure+openai&oq=ggradio+mcp+client+with+azure+openai&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIRgKGKABMgkIAhAhGAoYoAEyCQgDECEYChigATIHCAQQIRiPAjIHCAUQIRiPAtIBCDE1NjhqMGo0qAIOsAIB8QXc1sTnoLLrVw&client=ms-android-samsung-gn-rev1&sourceid=chrome-mobile&ie=UTF-8
+5/9/25, 06:01 - Abu: https://techcommunity.microsoft.com/blog/azure-ai-services-blog/model-context-protocol-mcp-integrating-azure-openai-for-enhanced-tool-integratio/4393788
+5/10/25, 10:40 - Abu: https://thenewstack.io/how-mcp-enables-agentic-ai-workflows/
+5/12/25, 07:01 - Abu: https://www.podpitch.com/blog/top-10-ai-podcasts-insights-innovation-creativity
+5/17/25, 16:26 - Abu: https://www.marktechpost.com/2025/05/15/hugging-face-introduces-a-free-model-context-protocol-mcp-course-a-developers-guide-to-build-and-deploy-context-aware-ai-agents-and-applications/
+5/19/25, 12:18 - Abu: https://github.com/BaldissaraMatheus/Tasks.md
+5/19/25, 12:20 - Abu: https://www.marktechpost.com/2025/05/17/how-to-build-a-powerful-and-intelligent-question-answering-system-by-using-tavily-search-api-chroma-google-gemini-llms-and-the-langchain-framework/
+5/21/25, 08:01 - Abu: https://youtube.com/shorts/Cw4vikNzlH0?si=pq1vHKmJrdPPbi2r
+5/27/25, 07:32 - Abu: https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai
+5/28/25, 06:43 - Abu: https://ai.gopubby.com/how-i-built-a-multi-agent-powerhouse-with-googles-adk-and-mcp-without-losing-my-mind-c24ed7b02383
+6/3/25, 09:31 - Abu: https://composio.dev/blog/i-vibe-coded-gumloop-in-a-weekend/
+6/7/25, 09:33 - Abu: https://www.marktechpost.com/2025/06/05/a-step-by-step-coding-guide-to-building-an-iterative-ai-workflow-agent-using-langgraph-and-gemini/
+6/8/25, 07:40 - Abu: https://github.com/amazingnerd/CrewAI-UI
+6/9/25, 10:23 - Abu: https://www.dailydoseofds.com/model-context-protocol-crash-course-part-3/
+6/9/25, 14:02 - Abu: https://www.marktechpost.com/2025/06/08/google-introduces-open-source-full-stack-ai-agent-stack-using-gemini-2-5-and-langgraph-for-multi-step-web-search-reflection-and-synthesis/
+6/13/25, 05:24 - Abu: https://dev.to/therealmrmumba/10-free-public-apis-im-actually-using-as-a-developer-in-2025-2p3
+6/29/25, 09:03 - Abu: <Media omitted>
+7/25/25, 09:51 - Abu: https://dev.to/praveen-sripati/introducing-nexus-a-polished-dashboard-built-with-vite-react-and-shadcnui-494c
+7/28/25, 12:42 - Abu: Skip to content
+Navigation Menu
+
+Two-factor recovery codes
+Recovery codes can be used to access your account in the event you lose access to your device and cannot receive two-factor authentication codes.
+
+Recovery codes
+Keep your recovery codes as safe as your password. We recommend saving them with a password manager such as 1Password, Authy, or Keeper.
+
+ Keep your recovery codes in a safe spot. These codes are the last resort for accessing your account in case you lose your password and second factors. If you cannot find these codes, you will lose access to your account.
+764b8-f339d c8d2c-d7f32 6d513-ce3a7 5d65d-43ff3 df6ea-0d585 2db99-f3d7e dc474-bddde 7acce-7a0ab ee2c5-3bc7e d63ce-485dc 90e94-27db6 635ea-5a461 899ef-4724a 1248f-93cf2 a3327-10298 4895d-6d39f
+  
+Generate new recovery codes
+When you generate new recovery codes, you must download or print the new codes. Your old codes won't work anymore.
+
+Back to settings
+
+Footer
+© 2025 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+7/31/25, 21:57 - Abu: Source: GitHub
+ https://search.app/ydur5
+8/3/25, 04:04 - Abu: https://www.infoworld.com/article/4024327/12-coding-agents-at-the-cutting-edge.html
+8/5/25, 08:23 - Abu: https://blog.langchain.com/deep-agents/
+8/5/25, 08:24 - Abu: https://blog.langchain.com/how-and-when-to-build-multi-agent-systems/
+8/6/25, 08:45 - Abu: https://www.marktechpost.com/2025/08/04/google-ai-releases-langextract-an-open-source-python-library-that-extracts-structured-data-from-unstructured-text-documents/
+8/6/25, 08:47 - Abu: https://pub.towardsai.net/building-ai-workflows-with-fastapi-and-langgraph-step-by-step-guide-599937ab84f3
+8/6/25, 08:57 - Abu: https://robertmarshall.dev/blog/turning-claude-code-into-a-development-powerhouse/
+8/6/25, 17:24 - Abu: https://blogs.nvidia.com/blog/rtx-ai-garage-langflow-agents-remix/
+8/6/25, 17:29 - Abu: Pimzino/claude-code-spec-workflow: Automated workflows for Claude Code. Features spec-driven development for new features (Requirements → Design → Tasks → Implementation) and streamlined bug fix workflow for quick issue resolution (Report → Analyze → Fix → Verify). https://share.google/YuAPbHiNcpSY3zINc
+8/8/25, 12:15 - Abu: https://www.instagram.com/reel/DKpT8wLRHni/?igsh=MXgyZmExa3B1YW5ucA==
+8/9/25, 13:14 - Abu: https://www.marktechpost.com/2025/08/06/a-coding-implementation-to-build-a-self-adaptive-goal-oriented-ai-agent-using-google-gemini-and-the-sage-framework/
+8/9/25, 22:28 - Abu: https://www.marktechpost.com/2025/08/07/a-coding-implementation-to-advanced-langgraph-multi-agent-research-pipeline-for-automated-insights-generation/
+8/10/25, 08:52 - Abu: www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/08/09/9-agentic-ai-workflow-patterns-transforming-ai-agents-in-2025/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From %251%24s&aoh=17548081062146&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.marktechpost.com%2F2025%2F08%2F09%2F9-agentic-ai-workflow-patterns-transforming-ai-agents-in-2025%2F https://share.google/TYWvkd8n7Zc23Tnm6
+8/10/25, 08:55 - Abu: www-marktechpost-com.cdn.ampproject.org/v/s/www.marktechpost.com/2025/08/06/a-coding-implementation-to-build-a-self-adaptive-goal-oriented-ai-agent-using-google-gemini-and-the-sage-framework/?amp=&amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From %251%24s&aoh=17548081062146&csi=0&referrer=https%3A%2F%2Fwww.google.com https://share.google/t9PPN7lrlPeP9OV6x
+8/12/25, 08:00 - Abu: https://www.xda-developers.com/self-hosted-llms-i-use-for-specific-tasks/
+8/12/25, 09:47 - Abu: https://levelup.gitconnected.com/building-the-entire-rag-ecosystem-and-optimizing-every-component-8f23349b96a4
+8/12/25, 09:51 - Abu: https://www.kdnuggets.com/agentic-ai-hands-on-in-python-a-video-tutorial
+8/15/25, 12:08 - Abu: https://docs.anthropic.com/en/docs/claude-code/output-styles
+8/15/25, 19:44 - Abu: https://academy.langchain.com/courses/deep-research-with-langgraph
+8/18/25, 07:57 - Abu: Source: GitHub
+ https://search.app/j936L
+8/19/25, 18:35 - Abu: https://www.marktechpost.com/2025/08/17/building-an-mcp-powered-ai-agent-with-gemini-and-mcp-agent-framework-a-step-by-step-implementation-guide/
+8/19/25, 19:28 - Abu: https://towardsdatascience.com/langgraph-101-lets-build-a-deep-research-agent/
+8/19/25, 19:31 - Abu: https://cookbook.openai.com/examples/deep_research_api/introduction_to_deep_research_api_agents
+8/20/25, 18:21 - Abu: GitHub - disler/claude-code-hooks-multi-agent-observability: Real-time monitoring for Claude Code agents through simple hook event tracking. https://share.google/M407caW40Hp401ElO
+8/22/25, 06:54 - Abu: https://www.marktechpost.com/2025/08/21/deepcode-an-open-agentic-coding-platform-that-transforms-research-papers-and-technical-documents-into-production-ready-code/
+8/22/25, 07:57 - Abu: https://microsoft.github.io/agent-academy/recruit/
+8/22/25, 12:57 - Abu: GitHub - karpathy/rendergit: Render any git repo into a single static HTML page for humans or LLMs https://share.google/sviph8E422vwfQLXk
+8/22/25, 12:58 - Abu: GitHub - langchain-ai/deepagents https://share.google/wgq9kdoRPQGNX2t1d
+8/22/25, 21:05 - Abu: 
+8/22/25, 21:05 - Abu: <Media omitted>
+8/22/25, 21:05 - Abu: <Media omitted>
+8/22/25, 21:05 - Abu: <Media omitted>
+8/22/25, 21:06 - Abu: <Media omitted>
+8/26/25, 07:15 - Abu: https://www.docker.com/blog/docker-mcp-ai-agent-developer-setup/
+8/26/25, 07:33 - Abu: https://www.marktechpost.com/2025/08/23/json-prompting-for-llms-a-practical-guide-with-python-coding-examples/
+8/26/25, 08:40 - Abu: GitHub - panphora/overtype: The markdown editor that's just a textarea https://overtype.dev https://share.google/8l2B0RDBM2YrxivC1
+8/26/25, 10:43 - Abu: GitHub - ghuntley/how-to-build-a-coding-agent: A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode. https://share.google/xCz93spRRVA8RdI1N
+8/28/25, 07:07 - Abu: https://www.freecodecamp.org/news/how-to-build-micro-frontends-in-react-with-vite-and-module-federation/
+8/28/25, 07:24 - Abu: heroui-inc/heroui-native: 📱Beautiful, fast and modern React Native UI library https://share.google/szLpLl4ZyqIWAlfc9
+8/31/25, 21:53 - Abu: https://www.marktechpost.com/2025/08/27/what-is-agentic-rag-use-cases-and-top-agentic-rag-tools-2025/
+9/2/25, 06:59 - Abu: https://www.baeldung.com/spring-ai-oath2-mcp-authorization
+9/2/25, 17:53 - Abu: https://www.marktechpost.com/2025/08/31/what-is-ai-agent-observability-top-7-best-practices-for-reliable-ai/
+9/2/25, 18:16 - Abu: Source: GitHub
+ https://search.app/xAVZQ
+9/7/25, 08:05 - Abu: Source: GitHub
+ https://search.app/2yrC9
+9/8/25, 06:15 - Abu: https://python.plainenglish.io/7-python-libraries-that-made-my-friends-think-i-was-a-hacker-7da1a22550a9
+9/10/25, 18:04 - Abu: <Media omitted>
+9/12/25, 04:21 - Abu: Source: Anthropic
+ https://search.app/j3NSo
+9/12/25, 05:39 - Abu: https://blog.langchain.com/how-to-turn-claude-code-into-a-domain-specific-coding-agent/
+9/12/25, 10:03 - Abu: https://www.kdnuggets.com/12-essential-lessons-for-building-ai-agents
+9/17/25, 10:41 - Abu: Connect Your AI to Everything: Spring AI's MCP Boot Starters https://share.google/9ag46Q4f96izrHy2f
+9/20/25, 07:27 - Abu: https://www.ibm.com/new/announcements/granite-docling-end-to-end-document-conversion
+9/23/25, 21:53 - Abu: https://blog.google/technology/developers/ai-agents-intensive/
+10/2/25, 05:42 - Abu: https://www.marktechpost.com/2025/09/30/how-to-build-an-advanced-agentic-retrieval-augmented-generation-rag-system-with-dynamic-strategy-and-smart-retrieval/
+10/13/25, 05:39 - Abu: https://www.marktechpost.com/2025/10/11/sentient-ai-releases-roma-an-open-source-and-agi-focused-meta-agent-framework-for-building-ai-agents-with-hierarchical-task-execution/
+10/13/25, 06:07 - Abu: I Switched From Ollama And LM Studio To llama.cpp And Absolutely Loving It https://share.google/XmpeKi7PXNzS1O3O9
+10/16/25, 10:59 - Abu: Source: GitHub
+ https://search.app/jGdSG
+10/16/25, 14:16 - Abu: Joel van altena
+0448776621
+Manages waliker
+10/17/25, 06:03 - Abu: https://simonwillison.net/2025/Oct/16/claude-skills/
+10/19/25, 08:27 - Abu: https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/
+10/20/25, 09:02 - Abu: 👨‍🔧 Github: RAG-Anything: All-in-One RAG Framework
+
+7.6k Stars ⭐️
+
+All-in-One Multimodal Document Processing RAG system built on LightRAG.
+
+You can query documents containing interleaved text, visual diagrams, structured tables, and mathematical formulations through one interface.
+
+- Document Parsing
+- Content Analysis
+- Knowledge Graph
+- Intelligent Retrieval
+
+github .com/HKUDS/RAG-Anything https://search.app/sSjAV
+11/2/25, 18:12 - Abu: https://dev.to/tyaga001/5-must-know-open-source-repositories-to-build-cool-ai-apps-3pn7
+11/2/25, 20:12 - Abu: P2 5th fl
+11/3/25, 12:04 - Abu: Vulkanstrasse 106, 8048 altstetten
+11/3/25, 17:46 - Abu: https://www.marktechpost.com/2025/10/29/microsoft-releases-agent-lightning-a-new-ai-framework-that-enables-reinforcement-learning-rl-based-training-of-llms-for-any-ai-agent/
+11/14/25, 12:11 - Abu: Source: GitHub
+ https://search.app/6JSkC
+11/22/25, 10:48 - Abu: https://arize.com/blog/claude-md-best-practices-learned-from-optimizing-claude-code-with-prompt-learning/
+11/23/25, 08:47 - Abu: https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5
+12/6/25, 01:35 - Abu: https://github.com/microsoft/magentic-ui/blob/main/README.md
+12/6/25, 06:35 - Abu: https://www.kdnuggets.com/top-5-small-ai-coding-models-that-you-can-run-locally
+12/6/25, 06:51 - Abu: https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/
+12/6/25, 22:24 - Abu: 💰 AI-Powered Bank Statement Analysis 
+
+Made by the LangChain Community 
+
+Automates PDF bank statement analysis via natural language. Built on LangChain's RAG with advanced retrieval. Uses custom YOLO detection and local LLMs for privacy-focused insights. 
+
+Check out the repository 👇 
+github.com/johnsonhk88/AI https://search.app/KPZAq
+12/7/25, 07:23 - Abu: https://www.marktechpost.com/2025/12/05/how-to-design-a-fully-local-multi-agent-orchestration-system-using-tinyllama-for-intelligent-task-decomposition-and-autonomous-collaboration/
+12/10/25, 05:48 - Abu: Source: Microsoft Dev Blogs
+ https://search.app/T4hT3
+12/20/25, 11:05 - Abu: https://developers.googleblog.com/developers-guide-to-multi-agent-patterns-in-adk/
+12/20/25, 11:10 - Abu: https://developers.googleblog.com/real-world-agent-examples-with-gemini-3/
+1/1/26, 12:11 - Abu: https://github.com/heilcheng/awesome-agent-skills
+1/8/26, 07:36 - Abu: https://youtu.be/I_b2QN-B1W0?si=vpD-qlpqwDg7ZtHR
+1/8/26, 11:42 - Abu: https://blog.devgenius.io/how-the-creator-of-claude-code-actually-uses-it-13-practical-moves-2bf02eec032a
+1/8/26, 21:40 - Abu: https://venturebeat.com/orchestration/claude-code-2-1-0-arrives-with-smoother-workflows-and-smarter-agents
+1/11/26, 01:23 - Abu: https://www.epfl.ch/education/continuing-education/applied-data-science-machine-learning/?utm_source=LinkedIn&utm_medium=Ad&utm_campaign=ADSML_general+&li_fat_id=2d5bc412-8e43-4057-97aa-05216e8c2804
+1/11/26, 01:51 - Abu: https://www.freecodecamp.org/news/build-an-ai-powered-flutter-app-with-google-antigravity/
+1/24/26, 07:06 - Abu: https://docs.langchain.com/oss/javascript/deepagents/skills
+1/26/26, 16:38 - Abu: https://github.com/Yeachan-Heo/oh-my-claudecode
+2/1/26, 19:17 - Abu: https://github.com/microsoft/agent-skills#java
+2/3/26, 06:47 - Abu: https://youtube.com/shorts/Dx6pcM-2orU?si=vCfXGWG6KU-wiZQY
+2/3/26, 17:05 - Abu: https://youtube.com/shorts/nuy7XxwVT28?si=lJGim4i1Pm7nYtfY
+2/9/26, 00:03 - Abu: https://github.com/tech-leads-club/agent-skills
+2/21/26, 09:53 - Abu: https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/
+2/21/26, 11:21 - Abu: [2602.15763] GLM-5: from Vibe Coding to Agentic Engineering https://share.google/p3gjt5i5wfd5Pa9Az
+2/21/26, 11:24 - Abu: Source: XDA
+ https://share.google/zUX62B93U3pwN0cXe
+2/23/26, 07:39 - Abu: https://youtube.com/shorts/V-oKP1oCybg?si=n5ceCZJtXDLhrwx2
+2/23/26, 08:48 - Abu: https://youtube.com/shorts/Dx6pcM-2orU?si=KQenDOYEd-28oqYw
+2/23/26, 08:49 - Abu: <Media omitted>
+2/24/26, 07:15 - Abu: https://youtube.com/shorts/siWERngbkTo?si=S8do-6qmGhEDU4HU
+3/3/26, 07:08 - Abu: https://youtube.com/shorts/-eqtERumi4w?si=iDLlyl0P1ps0yu_k
+3/5/26, 07:07 - Abu: https://youtube.com/shorts/6G_fFL3nH08?is=dlIjzB6n7j_rDQnB
+3/7/26, 13:21 - Abu: https://youtube.com/shorts/KiQd33ii12c?is=wMO0z71-pPNeukZY
+3/8/26, 11:34 - Abu: https://youtube.com/shorts/3h6Uxiif0L0?is=QX41zpzGh1szJc_D
+3/13/26, 13:12 - Abu: https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/
+3/18/26, 15:40 - Abu: https://blog.jetbrains.com/ai/2026/03/koog-comes-to-java/
+3/20/26, 14:12 - Abu: Google Cloud Tech on X: "5 Agent Skill design patterns every ADK developer should know" / X https://share.google/aVvxasdTvoicdlPSo
+3/21/26, 07:37 - Abu: https://youtube.com/shorts/of2sthtXzyg?is=87jEnoJHYNXwfHL5
+3/22/26, 12:52 - Abu: https://www.marktechpost.com/2026/03/20/nvidia-releases-nemotron-cascade-2-an-open-30b-moe-with-3b-active-parameters-delivering-better-reasoning-and-strong-agentic-capabilities/
