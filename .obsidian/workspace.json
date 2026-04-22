@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "current/tasks.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tasks"
+              "title": "README"
             }
           }
         ]
@@ -181,15 +181,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c68745419ee2715c",
+  "active": "cc675e170e23ece5",
   "lastOpenFiles": [
+    "CLAUDE.md",
+    "llms.txt/generatorss/interesting links.md",
+    "llms.txt/research/Research.md",
+    "llms.txt/research",
+    "current/tasks.md",
     "SKILLS/diagram-generation/SKILL.md",
     "SKILLS/diagram-generation/template.md",
     "SKILLS/diagram-generation/style-guide.md",
     "SKILLS/c4-architecture/SKILL.md",
     "SKILLS/azure-architecture-diagram/references/azure-node-mapping.md",
     "SKILLS/azure-resource-visualizer/references/azure-resource-graph.md",
-    "current/tasks.md",
     "current/github-copilot-sdk/GitHub Copilot SDK.md",
     "HOME.base",
     "packages/everything-claude-code/commands/learn.md",
@@ -208,9 +212,6 @@
     "packages/everything-claude-code/docs/zh-CN/skills/videodb/reference/generative.md",
     "packages/everything-claude-code/docs/zh-CN/skills/videodb/reference/editor.md",
     "packages/everything-claude-code/docs/zh-CN/skills/videodb/reference/capture.md",
-    "packages/everything-claude-code/docs/zh-CN/skills/videodb/reference/capture-reference.md",
-    "packages/everything-claude-code/docs/zh-CN/skills/videodb/reference/api-reference.md",
-    "packages/everything-claude-code/docs/zh-CN/skills/continuous-learning-v2/agents/observer.md",
     "packages/everything-claude-code/docs/ja-JP/skills/continuous-learning-v2/agents",
     "packages/everything-claude-code/docs/zh-CN/skills/videodb/reference",
     "packages/everything-claude-code/docs/zh-CN/skills/continuous-learning-v2/agents",
@@ -218,7 +219,6 @@
     "packages/everything-claude-code/skills/skill-stocktake/scripts/quick-diff.sh",
     "packages/everything-claude-code/skills/skill-stocktake/scripts/scan.sh",
     "packages/everything-claude-code/skills/skill-stocktake/scripts/save-results.sh",
-    "packages/everything-claude-code/skills/continuous-learning-v2/scripts/test_parse_instinct.py",
     "packages/everything-claude-code/assets/images/longform/09-25k-stars.png",
     "packages/everything-claude-code/assets/images/longform/08-two-terminals.png",
     "packages/everything-claude-code/assets/images/longform/07-boris-parallel.png",
