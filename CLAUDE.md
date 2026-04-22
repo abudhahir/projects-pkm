@@ -32,18 +32,22 @@ Node >=18 required.
 
 ## Architecture
 
-### SKILLS/ — Personal skill library
+### skills-src/ — Grouped personal skill library
 
-Each skill lives in its own directory and follows this layout:
+Each skill now lives in a grouped source tree and follows this layout:
 
 ```
-SKILLS/skill-name/
-├── SKILL.md          # Required. YAML frontmatter + lean body (1500-2000 words max)
-├── references/       # Detailed docs loaded by Claude on demand
-├── examples/         # Working, copy-ready code samples
-├── scripts/          # Executable utilities (bash/python)
-└── assets/           # Template files used in output (not loaded into context)
+skills-src/group-name/
+└── skills/
+    └── skill-name/
+        ├── SKILL.md          # Required. YAML frontmatter + lean body (1500-2000 words max)
+        ├── references/       # Detailed docs loaded by Claude on demand
+        ├── examples/         # Working, copy-ready code samples
+        ├── scripts/          # Executable utilities (bash/python)
+        └── assets/           # Template files used in output (not loaded into context)
 ```
+
+`SKILLS/index.md` remains as a compatibility index into the grouped `skills-src/` tree.
 
 **SKILL.md frontmatter** controls auto-selection — the `description` must use third-person with concrete trigger phrases:
 ```yaml
@@ -79,7 +83,7 @@ Production-ready Claude Code configs distributed via npm. Key subdirectories:
 ```
 Two hook types: `"type": "prompt"` (LLM-driven, context-aware) and `"type": "command"` (deterministic bash).
 
-### SKILLS/ domain coverage
+### skills-src/ domain coverage
 
 The skill library spans: Java/Spring Boot, Kotlin, architecture diagramming (Mermaid, draw.io, C4, Excalidraw), MCP integration, agent/command/hook/skill development, TDD, AWS/Azure integration, API documentation, and visual explanation workflows.
 
