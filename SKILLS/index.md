@@ -1,39 +1,155 @@
-﻿# Skills Index
+# Skills Index
 
-| Agent Name | Short Description | Link |
+The skill library now lives under `skills-src/<group>/skills/<skill>`.
+
+- Total groups: 10
+- Total entries: 78
+- Canonical grouped index: [`../skills-src/index.md`](../skills-src/index.md)
+
+## [ai-agent-platform](../skills-src/ai-agent-platform/index.md)
+
+Agent, command, hook, MCP, and platform workflow skills.
+
+| Name | Type | Description |
 |---|---|---|
-| agent-development | This skill should be used when the user asks to "create an agent", "add an agent", "write a subagent", "agent frontmatter", "when to use description", "agent examples", "agent tools", "agent colors", "autonomous agent", or needs guidance on agent structure, system prompts, triggering conditions, or agent development best practices for Claude Code plugins. | [agent-development](agent-development/) |
-| aws-rds-spring-boot-integration | Provides patterns to configure AWS RDS (Aurora, MySQL, PostgreSQL) with Spring Boot applications. Use when setting up datasources, connection pooling, security, and production-ready database configuration. | [aws-rds-spring-boot-integration](aws-rds-spring-boot-integration/) |
-| command-development | This skill should be used when the user asks to "create a slash command", "add a command", "write a custom command", "define command arguments", "use command frontmatter", "organize commands", "create command with file references", "interactive command", "use AskUserQuestion in command", or needs guidance on slash command structure, YAML frontmatter fields, dynamic arguments, bash execution in commands, user interaction patterns, or command development best practices for Claude Code. | [command-development](command-development/) |
-| front-end | No description found | [front-end](front-end/) |
-| handbook-extras | Extended features and experimental tools for Claude Code Handbook. | [handbook-extras](handbook-extras/) |
-| handbook-git-worktree | Git worktree management for working on multiple branches simultaneously. | [handbook-git-worktree](handbook-git-worktree/) |
-| handbook-glab | GitLab CLI (glab) expertise for Claude Code, providing guidance for managing merge requests, issues, CI/CD pipelines, and repositories from the command line. | [handbook-glab](handbook-glab/) |
-| handbook-qa | Browser automation and QA testing tools with Playwright MCP integration. | [handbook-qa](handbook-qa/) |
-| handbook-structured-plan-mode | Structured planning methodology for complex feature implementations through systematic task decomposition. | [handbook-structured-plan-mode](handbook-structured-plan-mode/) |
-| hook-development | This skill should be used when the user asks to "create a hook", "add a PreToolUse/PostToolUse/Stop hook", "validate tool use", "implement prompt-based hooks", "use ${CLAUDE_PLUGIN_ROOT}", "set up event-driven automation", "block dangerous commands", or mentions hook events (PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification). Provides comprehensive guidance for creating and implementing Claude Code plugin hooks with focus on advanced prompt-based hooks API. | [hook-development](hook-development/) |
-| java-spring-boot | Build production Spring Boot applications - REST APIs, Security, Data, Actuator | [java-spring-boot](java-spring-boot/) |
-| jpa-patterns | JPA/Hibernate patterns for entity design, relationships, query optimization, transactions, auditing, indexing, pagination, and pooling in Spring Boot. | [jpa-patterns](jpa-patterns/) |
-| kotlin-spring-boot | Kotlin/Spring Boot 3.x patterns - use for backend services, REST APIs, dependency injection, controllers, and service layers | [kotlin-spring-boot](kotlin-spring-boot/) |
-| langchain4j-spring-boot-integration | Provides integration patterns for LangChain4j with Spring Boot. Handles auto-configuration, dependency injection, and Spring ecosystem integration. Use when embedding LangChain4j into Spring Boot applications. | [langchain4j-spring-boot-integration](langchain4j-spring-boot-integration/) |
-| mcp-integration | This skill should be used when the user asks to "add MCP server", "integrate MCP", "configure MCP in plugin", "use .mcp.json", "set up Model Context Protocol", "connect external service", mentions "${CLAUDE_PLUGIN_ROOT} with MCP", or discusses MCP server types (SSE, stdio, HTTP, WebSocket). Provides comprehensive guidance for integrating Model Context Protocol servers into Claude Code plugins for external tool and service integration. | [mcp-integration](mcp-integration/) |
-| skill-development | This skill should be used when the user wants to "create a skill", "add a skill to plugin", "write a new skill", "improve skill description", "organize skill content", or needs guidance on skill structure, progressive disclosure, or skill development best practices for Claude Code plugins. | [skill-development](skill-development/) |
-| spring-boot-3 | Spring Boot 3 patterns for configuration, DI, and web services. Trigger: When building or refactoring Spring Boot 3 applications. | [spring-boot-3](spring-boot-3/) |
-| spring-boot-actuator | Provides patterns to configure Spring Boot Actuator for production-grade monitoring, health probes, secured management endpoints, and Micrometer metrics across JVM services. Use when setting up monitoring, health checks, or metrics for Spring Boot applications. | [spring-boot-actuator](spring-boot-actuator/) |
-| spring-boot-cache | Provides patterns for enabling and operating the Spring Cache abstraction in Spring Boot. Use when implementing application-level caching for performance-sensitive workloads. | [spring-boot-cache](spring-boot-cache/) |
-| spring-boot-crud-patterns | Provides repeatable CRUD workflows for Spring Boot 3 services with Spring Data JPA and feature-focused architecture. Use when modeling aggregates, repositories, controllers, and DTOs for REST APIs. | [spring-boot-crud-patterns](spring-boot-crud-patterns/) |
-| spring-boot-dependency-injection | Provides dependency injection patterns for Spring Boot projects covering constructor-first patterns, optional collaborator handling, bean selection, and validation practices. Use when configuring beans, wiring dependencies, or troubleshooting injection issues. | [spring-boot-dependency-injection](spring-boot-dependency-injection/) |
-| spring-boot-engineer | Generates Spring Boot 3.x configurations, creates REST controllers, implements Spring Security 6 authentication flows, sets up Spring Data JPA repositories, and configures reactive WebFlux endpoints. Use when building Spring Boot 3.x applications, microservices, or reactive Java applications; invoke for Spring Data JPA, Spring Security 6, WebFlux, Spring Cloud integration, Java REST API design, or Microservices Java architecture. | [spring-boot-engineer](spring-boot-engineer/) |
-| spring-boot-event-driven-patterns | Provides Event-Driven Architecture (EDA) patterns in Spring Boot using ApplicationEvent, @EventListener, and Kafka. Use when building loosely-coupled microservices with domain events, transactional event listeners, and distributed messaging patterns. | [spring-boot-event-driven-patterns](spring-boot-event-driven-patterns/) |
-| spring-boot-openapi-documentation | Provides patterns to generate comprehensive REST API documentation using SpringDoc OpenAPI 3.0 and Swagger UI in Spring Boot 3.x applications. Use when setting up API documentation, configuring Swagger UI, adding OpenAPI annotations, implementing security documentation, or enhancing REST endpoints with examples and schemas. | [spring-boot-openapi-documentation](spring-boot-openapi-documentation/) |
-| springboot-patterns | Spring Boot architecture patterns, REST API design, layered services, data access, caching, async processing, and logging. Use for Java Spring Boot backend work. | [springboot-patterns](springboot-patterns/) |
-| spring-boot-resilience4j | This skill should be used when implementing fault tolerance and resilience patterns in Spring Boot applications using the Resilience4j library. Apply this skill to add circuit breaker, retry, rate limiter, bulkhead, time limiter, and fallback mechanisms to prevent cascading failures, handle transient errors, and manage external service dependencies gracefully in microservices architectures. | [spring-boot-resilience4j](spring-boot-resilience4j/) |
-| spring-boot-rest-api-standards | Provides REST API design standards and best practices for Spring Boot projects. Use when creating or reviewing REST endpoints, DTOs, error handling, pagination, security headers, HATEOAS and architecture patterns. | [spring-boot-rest-api-standards](spring-boot-rest-api-standards/) |
-| spring-boot-saga-pattern | Provides distributed transaction patterns using the Saga Pattern in Spring Boot microservices. Use when building microservices requiring transaction management across multiple services, handling compensating transactions, ensuring eventual consistency, or implementing choreography or orchestration-based sagas with Spring Boot, Kafka, or Axon Framework. | [spring-boot-saga-pattern](spring-boot-saga-pattern/) |
-| springboot-security | Spring Security best practices for authn/authz, validation, CSRF, secrets, headers, rate limiting, and dependency security in Java Spring Boot services. | [springboot-security](springboot-security/) |
-| spring-boot-security-jwt | Provides JWT authentication and authorization patterns for Spring Boot 3.5.x covering token generation with JJWT, Bearer/cookie authentication, database/OAuth2 integration, and RBAC/permission-based access control using Spring Security 6.x. Use when implementing authentication or authorization in Spring Boot applications. | [spring-boot-security-jwt](spring-boot-security-jwt/) |
-| springboot-tdd | Test-driven development for Spring Boot using JUnit 5, Mockito, MockMvc, Testcontainers, and JaCoCo. Use when adding features, fixing bugs, or refactoring. | [springboot-tdd](springboot-tdd/) |
-| spring-boot-test-patterns | Provides comprehensive testing patterns for Spring Boot applications including unit, integration, slice, and container-based testing with JUnit 5, Mockito, Testcontainers, and performance optimization. Use when implementing robust test suites for Spring Boot applications. | [spring-boot-test-patterns](spring-boot-test-patterns/) |
-| springboot-verification | Verification loop for Spring Boot projects: build, static analysis, tests with coverage, security scans, and diff review before release or PR. | [springboot-verification](springboot-verification/) |
-| unit-test-application-events | Provides patterns for testing Spring application events (ApplicationEvent) with @EventListener and ApplicationEventPublisher. Handles event publishing, listening, and async event handling in Spring Boot applications. Use when validating event-driven workflows in your Spring Boot services. | [unit-test-application-events](unit-test-application-events/) |
-| visual-explainer | Generate beautiful, self-contained HTML pages that visually explain systems, code changes, plans, and data. Use when the user asks for a diagram, architecture overview, diff review, plan review, project recap, comparison table, or any visual explanation of technical concepts. Also use proactively when you are about to render a complex ASCII table (4+ rows or 3+ columns) â€” present it as a styled HTML page instead. | [visual-explainer](visual-explainer/) |
+| [agent-development](../skills-src/ai-agent-platform/skills/agent-development/) | Skill | Patterns for creating Claude Code agents and writing effective agent frontmatter. |
+| [command-development](../skills-src/ai-agent-platform/skills/command-development/) | Skill | Patterns for creating Claude Code slash commands. |
+| [hook-development](../skills-src/ai-agent-platform/skills/hook-development/) | Skill | Patterns for creating and validating Claude Code hooks. |
+| [mcp-integration](../skills-src/ai-agent-platform/skills/mcp-integration/) | Skill | Model Context Protocol integration patterns for Claude Code plugins. |
+| [skill-development](../skills-src/ai-agent-platform/skills/skill-development/) | Skill | Patterns for creating and organizing reusable Claude Code skills. |
+| [gitlab-ops](../skills-src/ai-agent-platform/skills/gitlab-ops/) | Skill | GitLab command-line workflows for issues, repositories, CI/CD, and reporting. |
+
+## [architecture-docs](../skills-src/architecture-docs/index.md)
+
+Architecture, documentation, and explanation skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [api-documentation](../skills-src/architecture-docs/skills/api-documentation/) | Skill | Auto-generate comprehensive API documentation with examples, schemas, and interactive tools. |
+| [api-reference-documentation](../skills-src/architecture-docs/skills/api-reference-documentation/) | Skill | Creates professional API documentation using OpenAPI specifications with endpoints,... |
+| [architecture-documenter](../skills-src/architecture-docs/skills/architecture-documenter/) | Skill | Architecture documentation and technical design writeups. |
+| [architecture-patterns](../skills-src/architecture-docs/skills/architecture-patterns/) | Skill | Implement proven backend architecture patterns including Clean Architecture, Hexagonal... |
+| [document-writer](../skills-src/architecture-docs/skills/document-writer/) | Skill | Documentation writing guidance and structure patterns. |
+| [documentation-generator](../skills-src/architecture-docs/skills/documentation-generator/) | Skill | Auto-generate JSDoc, docstrings, README files, and API documentation. |
+| [markdown-documentation](../skills-src/architecture-docs/skills/markdown-documentation/) | Skill | Markdown documentation structure and writing patterns. |
+| [pattern-detector](../skills-src/architecture-docs/skills/pattern-detector/) | Skill | Detect design patterns and anti-patterns in code with recommendations. |
+| [senior-architect](../skills-src/architecture-docs/skills/senior-architect/) | Skill | System architecture reviews, trade-off analysis, and design guidance. |
+| [java-architect](../skills-src/architecture-docs/skills/java-architect/) | Skill | Java architecture guidance for Spring Boot and enterprise systems. |
+| [visual-explainer](../skills-src/architecture-docs/skills/visual-explainer/) | Skill | Generate beautiful, self-contained HTML pages that visually explain systems, code changes,... |
+
+## [backend-ai](../skills-src/backend-ai/index.md)
+
+Backend implementation and AI integration skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [backend-patterns](../skills-src/backend-ai/skills/backend-patterns/) | Skill | Backend architecture patterns, API design, database optimization, and server-side best practices... |
+| [kotlin-spring-boot](../skills-src/backend-ai/skills/kotlin-spring-boot/) | Skill | Kotlin/Spring Boot 3.x patterns - use for backend services, REST APIs, dependency injection,... |
+| [langchain4j-spring-boot-integration](../skills-src/backend-ai/skills/langchain4j-spring-boot-integration/) | Skill | Provides integration patterns for LangChain4j with Spring Boot. Handles auto-configuration,... |
+| [spring-ai-mcp-server-patterns](../skills-src/backend-ai/skills/spring-ai-mcp-server-patterns/) | Skill | Provides Model Context Protocol (MCP) server implementation patterns with Spring AI. |
+
+## [cloud](../skills-src/cloud/index.md)
+
+Cloud infrastructure and cloud-service integration skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [aws-rds-spring-boot-integration](../skills-src/cloud/skills/aws-rds-spring-boot-integration/) | Skill | Provides patterns to configure AWS RDS (Aurora, MySQL, PostgreSQL) with Spring Boot applications. |
+| [azure-architecture-diagram](../skills-src/cloud/skills/azure-architecture-diagram/) | Skill | Generate Azure infrastructure diagrams from discovered subscription resources. |
+| [azure-identity-java](../skills-src/cloud/skills/azure-identity-java/) | Skill | Azure Identity Java SDK for authentication with Azure services. |
+| [azure-resource-visualizer](../skills-src/cloud/skills/azure-resource-visualizer/) | Skill | Analyze Azure resource groups and generate detailed Mermaid architecture diagrams showing the... |
+
+## [diagramming-visualization](../skills-src/diagramming-visualization/index.md)
+
+Diagramming, rendering, and visual communication skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [Art](../skills-src/diagramming-visualization/skills/Art/) | Skill | Complete visual content system. |
+| [beautiful-mermaid](../skills-src/diagramming-visualization/skills/beautiful-mermaid/) | Skill | Render Mermaid diagrams as SVG and PNG using the Beautiful Mermaid library. |
+| [c4-architecture](../skills-src/diagramming-visualization/skills/c4-architecture/) | Skill | Generate architecture documentation using C4 model Mermaid diagrams. |
+| [diagram](../skills-src/diagramming-visualization/skills/diagram/) | Skill | Maintain and synchronize Unified Impact Diagrams following Diagram Driven Development (DDD)... |
+| [diagram-generation](../skills-src/diagramming-visualization/skills/diagram-generation/) | Skill | Generate self-contained HTML architecture diagrams. |
+| [draw-io](../skills-src/diagramming-visualization/skills/draw-io/) | Skill | draw.io diagram creation, editing, and review. Use for .drawio XML editing, PNG conversion,... |
+| [drawio-logical-diagrams](../skills-src/diagramming-visualization/skills/drawio-logical-diagrams/) | Skill | Creates professional logical flow diagrams and logical system architecture diagrams using... |
+| [excalidraw-diagram-generator](../skills-src/diagramming-visualization/skills/excalidraw-diagram-generator/) | Skill | Generate Excalidraw diagrams from natural language descriptions. |
+| [mermaid](../skills-src/diagramming-visualization/skills/mermaid/) | Skill | Create flowcharts, sequence diagrams, state machines, class diagrams, Gantt charts, mindmaps,... |
+| [mermaid-creator](../skills-src/diagramming-visualization/skills/mermaid-creator/) | Skill | Create Mermaid diagrams for technical documentation, system design, and data modeling. |
+| [mermaid-diagram](../skills-src/diagramming-visualization/skills/mermaid-diagram/) | Skill | Generate Mermaid diagrams for educational content. |
+| [mermaid-diagrams](../skills-src/diagramming-visualization/skills/mermaid-diagrams/) | Skill | Create diagrams and visualizations using Mermaid syntax. |
+| [mermaid-flow-image](../skills-src/diagramming-visualization/skills/mermaid-flow-image/) | Skill | 将流程需求整理为可渲染的 Mermaid（简化版/详细版），并通过 Kroki 生成可发送的高分辨率 PNG 图片。适用于“把架构流程画出来并直接发图”的场景。. |
+| [mermaid-tools](../skills-src/diagramming-visualization/skills/mermaid-tools/) | Skill | Extracts Mermaid diagrams from markdown files and generates high-quality PNG images using... |
+| [mermaid-visualizer](../skills-src/diagramming-visualization/skills/mermaid-visualizer/) | Skill | Transform text content into professional Mermaid diagrams for presentations and documentation. |
+| [obsidian-mermaid](../skills-src/diagramming-visualization/skills/obsidian-mermaid/) | Skill | Create Obsidian-compatible Mermaid diagrams. Prefer square layouts (TB + subgraph LR), avoid... |
+
+## [frontend](../skills-src/frontend/index.md)
+
+Frontend and UI-related skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [front-end](../skills-src/frontend/skills/front-end/) | Skill | Frontend patterns and UI implementation notes. |
+
+## [handbooks](../skills-src/handbooks/index.md)
+
+Process handbooks and workflow references.
+
+| Name | Type | Description |
+|---|---|---|
+| [handbook-extras](../skills-src/handbooks/skills/handbook-extras/) | Handbook | Extended features and experimental tools for Claude Code Handbook. |
+| [handbook-git-worktree](../skills-src/handbooks/skills/handbook-git-worktree/) | Handbook | Git worktree management for working on multiple branches simultaneously. |
+| [handbook-glab](../skills-src/handbooks/skills/handbook-glab/) | Handbook | GitLab CLI (glab) expertise for Claude Code, providing guidance for managing merge requests,... |
+| [handbook-qa](../skills-src/handbooks/skills/handbook-qa/) | Handbook | Browser automation and QA testing tools with Playwright MCP integration. |
+| [handbook-structured-plan-mode](../skills-src/handbooks/skills/handbook-structured-plan-mode/) | Handbook | Structured planning methodology for complex feature implementations through systematic task... |
+
+## [java](../skills-src/java/index.md)
+
+Core Java language, tooling, and coding practice skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [java-21](../skills-src/java/skills/java-21/) | Skill | Java 21 language features and usage patterns. |
+| [java-coding-standards](../skills-src/java/skills/java-coding-standards/) | Skill | Java coding standards for Spring Boot projects. |
+| [java-concurrency](../skills-src/java/skills/java-concurrency/) | Skill | Master Java concurrency - threads, executors, locks, CompletableFuture, virtual threads. |
+| [java-fundamentals](../skills-src/java/skills/java-fundamentals/) | Skill | Master core Java programming - syntax, OOP, collections, streams, and exception handling. |
+| [java-generics](../skills-src/java/skills/java-generics/) | Skill | Java generics patterns and best practices. |
+| [java-maven-helper](../skills-src/java/skills/java-maven-helper/) | Skill | Maven build system, dependency management, and Java project configuration assistance. |
+| [java-streams-api](../skills-src/java/skills/java-streams-api/) | Skill | Java Streams API usage patterns. |
+
+## [spring-boot](../skills-src/spring-boot/index.md)
+
+Spring Boot application, API, security, and platform skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [java-spring-boot](../skills-src/spring-boot/skills/java-spring-boot/) | Skill | Build production Spring Boot applications - REST APIs, Security, Data, Actuator. |
+| [jpa-patterns](../skills-src/spring-boot/skills/jpa-patterns/) | Skill | JPA/Hibernate patterns for entity design, relationships, query optimization, transactions,... |
+| [microservices-patterns](../skills-src/spring-boot/skills/microservices-patterns/) | Skill | Design microservices architectures with service boundaries, event-driven communication, and... |
+| [spring-boot-3](../skills-src/spring-boot/skills/spring-boot-3/) | Skill | Spring Boot 3 configuration, dependency injection, and web-service patterns. |
+| [spring-boot-actuator](../skills-src/spring-boot/skills/spring-boot-actuator/) | Skill | Provides patterns to configure Spring Boot Actuator for production-grade monitoring, health... |
+| [spring-boot-cache](../skills-src/spring-boot/skills/spring-boot-cache/) | Skill | Provides patterns for enabling and operating the Spring Cache abstraction in Spring Boot. |
+| [spring-boot-crud-patterns](../skills-src/spring-boot/skills/spring-boot-crud-patterns/) | Skill | Provides repeatable CRUD workflows for Spring Boot 3 services with Spring Data JPA and... |
+| [spring-boot-dependency-injection](../skills-src/spring-boot/skills/spring-boot-dependency-injection/) | Skill | Provides dependency injection patterns for Spring Boot projects covering constructor-first... |
+| [spring-boot-engineer](../skills-src/spring-boot/skills/spring-boot-engineer/) | Skill | Generates Spring Boot 3.x configurations, creates REST controllers, implements Spring Security 6... |
+| [spring-boot-event-driven-patterns](../skills-src/spring-boot/skills/spring-boot-event-driven-patterns/) | Skill | Provides Event-Driven Architecture (EDA) patterns in Spring Boot using ApplicationEvent,... |
+| [spring-boot-openapi-documentation](../skills-src/spring-boot/skills/spring-boot-openapi-documentation/) | Skill | Provides patterns to generate comprehensive REST API documentation using SpringDoc OpenAPI 3.0... |
+| [spring-boot-resilience4j](../skills-src/spring-boot/skills/spring-boot-resilience4j/) | Skill | Resilience4j patterns for retries, circuit breakers, and fault tolerance in Spring Boot. |
+| [spring-boot-rest-api-standards](../skills-src/spring-boot/skills/spring-boot-rest-api-standards/) | Skill | Provides REST API design standards and best practices for Spring Boot projects. |
+| [spring-boot-saga-pattern](../skills-src/spring-boot/skills/spring-boot-saga-pattern/) | Skill | Provides distributed transaction patterns using the Saga Pattern in Spring Boot microservices. |
+| [spring-boot-security-jwt](../skills-src/spring-boot/skills/spring-boot-security-jwt/) | Skill | Provides JWT authentication and authorization patterns for Spring Boot 3.5.x covering token... |
+| [springboot-patterns](../skills-src/spring-boot/skills/springboot-patterns/) | Skill | Spring Boot architecture patterns, REST API design, layered services, data access, caching,... |
+| [springboot-security](../skills-src/spring-boot/skills/springboot-security/) | Skill | Spring Security best practices for authn/authz, validation, CSRF, secrets, headers, rate... |
+
+## [testing-quality](../skills-src/testing-quality/index.md)
+
+Testing, TDD, verification, and quality skills.
+
+| Name | Type | Description |
+|---|---|---|
+| [dev-tdd](../skills-src/testing-quality/skills/dev-tdd/) | Skill | Test-driven development workflow with red-green-refactor. |
+| [java-testing](../skills-src/testing-quality/skills/java-testing/) | Skill | Test Java applications - JUnit 5, Mockito, integration testing, TDD patterns. |
+| [spring-boot-test-patterns](../skills-src/testing-quality/skills/spring-boot-test-patterns/) | Skill | Provides comprehensive testing patterns for Spring Boot applications including unit,... |
+| [springboot-tdd](../skills-src/testing-quality/skills/springboot-tdd/) | Skill | Test-driven development for Spring Boot using JUnit 5, Mockito, MockMvc, Testcontainers, and JaCoCo. |
+| [springboot-verification](../skills-src/testing-quality/skills/springboot-verification/) | Skill | Verification loop for Spring Boot projects: build, static analysis, tests with coverage,... |
+| [tdd](../skills-src/testing-quality/skills/tdd/) | Skill | Test-driven development with red-green-refactor loop. |
+| [unit-test-application-events](../skills-src/testing-quality/skills/unit-test-application-events/) | Skill | Provides patterns for testing Spring application events (ApplicationEvent) with @EventListener... |
