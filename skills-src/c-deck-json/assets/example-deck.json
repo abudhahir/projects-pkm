@@ -1,0 +1,78 @@
+{
+  "brand": "Acme FinOps",
+  "meterLabel": "PILOT PROGRESS",
+  "slides": [
+    {
+      "type": "TitleSlide",
+      "tagText": "PILOT SUMMARY · Q3",
+      "chipText": "FINOPS",
+      "title": "Cutting AI Seat Costs <span class=\"hl\">40%</span>",
+      "subtitle": "Moving from per-seat licensing to a shared token pool.",
+      "creditBold": "One Shared Pool",
+      "creditMuted": "govern the pool, not the seats",
+      "hintContent": "<kbd>&rarr;</kbd> Next slide &middot; <kbd>O</kbd> Overview &middot; <kbd>F</kbd> Fullscreen"
+    },
+    {
+      "type": "Slide",
+      "content": [
+        { "type": "Eyebrow", "num": "01", "text": "The Problem" },
+        { "type": "Headline", "html": "Seat costs scale <span class=\"hl\">faster</span> than usage" },
+        { "type": "Lead", "html": "Three teams, three license tiers, no shared budget." },
+        {
+          "type": "CardGrid",
+          "cols": 2,
+          "content": [
+            { "type": "SlideCard", "variant": "bad", "title": "Today", "content": ["Per-seat billing regardless of actual token usage."] },
+            { "type": "SlideCard", "variant": "good", "title": "Proposed", "content": ["Shared token pool billed by consumption."] }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Slide",
+      "content": [
+        { "type": "Eyebrow", "num": "02", "text": "Usage by Activity" },
+        { "type": "Headline", "content": ["Background agents drive ", { "type": "Hl", "content": ["62%"] }, " of spend"] },
+        {
+          "type": "StatRow",
+          "content": [
+            { "type": "Stat", "value": "62%", "color": "amber", "label": "background agents" },
+            { "type": "Stat", "value": "23%", "color": "cool", "label": "chat" },
+            { "type": "Stat", "value": "15%", "color": "vio", "label": "code review" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Slide",
+      "content": [
+        { "type": "Eyebrow", "num": "03", "text": "Pricing Comparison" },
+        { "type": "Headline", "html": "Pooled pricing wins at every tier" },
+        {
+          "type": "DataTable",
+          "headers": [{ "label": "Plan" }, { "label": "Seats" }, { "label": "Monthly" }],
+          "rows": [
+            { "cells": [{ "value": "Per-seat", "name": true }, { "value": "8" }, { "value": "$960", "price": "bad" }] },
+            { "highlight": true, "cells": [{ "value": "Shared pool", "name": true }, { "value": "8" }, { "value": "$580", "price": "good" }] }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Slide",
+      "content": [
+        { "type": "Eyebrow", "num": "04", "text": "Rollout Plan" },
+        { "type": "Headline", "html": "Three stages, six weeks" },
+        {
+          "type": "Stages",
+          "content": [
+            { "type": "StageCard", "num": "01", "title": "Pilot", "items": ["Pick 2 teams", "Set a starter budget"] },
+            { "type": "StageCard", "num": "02", "title": "Expand", "items": ["Add remaining teams", "Tune alert thresholds"] },
+            { "type": "StageCard", "num": "03", "title": "Operate", "items": ["Monthly budget review", "Quarterly rate renegotiation"] }
+          ]
+        },
+        { "type": "NoteBlock", "variant": "vio", "html": "Risk: a single noisy team can drain the shared pool — mitigated by per-team soft caps." }
+      ]
+    }
+  ]
+}

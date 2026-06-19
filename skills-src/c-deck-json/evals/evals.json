@@ -1,0 +1,53 @@
+{
+  "skill_name": "c-deck-json",
+  "evals": [
+    {
+      "id": 0,
+      "name": "theming-doc-to-training-deck",
+      "prompt": "I'm onboarding a new contributor to c-deck and want a short slide deck (not a doc) explaining how theming works, based on this section of our README:\n\n## Theming\nCustomize the palette and fonts without touching component code. Works with both JsonSlideDeck (via data.theme) and the manual JSX primitives (via a theme prop on <SlideStyles>).\n\nNamed preset:\nconst presentationData = { theme: 'light', slides: [/* ... */] };\n\nPreset + overrides:\nconst presentationData = {\n  theme: { preset: 'light', overrides: { amber: '#FF8800' } },\n  slides: [/* ... */],\n};\n\nOverrides only (based on the default dark-finops preset):\nconst presentationData = {\n  theme: { overrides: { teal: '#00C2A8' } },\n  slides: [/* ... */],\n};\n\nBuilt-in presets: dark-finops (default) and light.\n\nOverridable tokens: ink, ink2, ink3, paper, amber, amberDeep, teal, coral, violet, text, muted, line, line2, disp (display font), body (body font), mono (monospace font).\n\nKnown limitation: a few decorative chrome elements (the ambient background glow, the pool-reservoir stripe overlay, and the nav-button backdrop tint) use fixed semi-transparent white overlays rather than theme tokens. They're tuned to read reasonably under both built-in presets but aren't fully theme-aware yet.\n\nCan you turn this into a JSON deck I can drop straight into JsonSlideDeck? Maybe 3-4 slides.",
+      "expected_output": "A valid c-deck deck JSON (TitleSlide + 2-3 content slides) covering: what theming is for, the preset vs overrides vs preset+overrides usage patterns, the list of overridable tokens, and the known chrome limitation as a callout. All component types must exist in src/SlideTemplates.jsx.",
+      "files": [],
+      "assertions": [
+        "valid_json: deck.json parses as valid JSON",
+        "slide_count_in_range: top-level slides array has 3-5 entries",
+        "opens_with_title_slide: slides[0].type === \"TitleSlide\"",
+        "all_types_recognized: scripts/validate_deck.js exits 0 against this deck",
+        "mentions_chrome_limitation: deck text contains the known-limitation content (glow/stripe/tint/\"not.*theme-aware\")",
+        "covers_override_tokens: deck text mentions at least 5 of the 15 named override tokens",
+        "no_verbatim_dump: content is restructured into the deck's own slide/headline language, not the README section pasted wholesale onto one slide (qualitative)"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "pricing-pitch-with-table-and-rollout",
+      "prompt": "We're pitching a pricing change to the team. Quick context: today everyone gets a per-seat license at $120/seat/month regardless of usage. Heavy users (background agents, batch jobs) cost way more in actual API spend than light users (occasional chat). We want to move to a shared token pool billed at $0.002/1k tokens with per-team soft caps. For an 8-seat team this would drop monthly cost from $960 to about $580 based on last quarter's usage. Risk: one noisy team could drain the pool fast, so we're adding soft caps + alerts. Rollout would be pilot (2 teams, 2 weeks) -> expand (all teams, 2 weeks) -> operate (monthly review). Can you build me a deck.json out of this for our c-deck presenter? I want a title slide, then the problem, the cost comparison, the risk, and the rollout plan.",
+      "expected_output": "A valid c-deck deck JSON with a TitleSlide plus slides for: the per-seat problem, a cost comparison (likely DataTable, $960 vs $580), the pool-drain risk (likely NoteBlock), and the 3-stage rollout (likely Stages/StageCard with pilot/expand/operate). All component types valid against SlideTemplates.jsx.",
+      "files": [],
+      "assertions": [
+        "valid_json: deck.json parses as valid JSON",
+        "slide_count_in_range: top-level slides array has 4-6 entries",
+        "opens_with_title_slide: slides[0].type === \"TitleSlide\"",
+        "all_types_recognized: scripts/validate_deck.js exits 0 against this deck",
+        "has_both_cost_figures: deck text contains both \"$960\" and \"$580\"",
+        "has_all_rollout_stages: deck text mentions pilot, expand, and operate (case-insensitive)",
+        "one_idea_per_slide: problem/cost/risk/rollout land on distinct slides rather than collapsed onto fewer slides than requested (qualitative)"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "messy-retro-notes-to-allhands-deck",
+      "prompt": "ok so notes from the retro yesterday, kind of a mess, can u make this into slides for the all-hands:\n\n- launched the new onboarding flow last sprint\n- signup completion went from 41% to 63% !!\n- biggest win was removing the credit card step up front\n- still seeing drop off on the email verification step, like 15% bounce there\n- support tickets about onboarding down 30%\n- next sprint: fix email verif (send reminder after 10 min), then look at mobile onboarding which we havent touched at all\n- someone asked about A/B testing the new flow vs old - not done yet, maybe next quarter\n\nneeds to go out before the all hands tomorrow at 2pm, output as json please",
+      "expected_output": "A valid c-deck deck JSON turning unstructured bullet notes into a coherent narrative: title, the result (41%->63%, likely StatRow/Stat), what worked, what's still broken (email verification bounce), and next steps (likely TickList or StageCard). Should not just dump the bullets verbatim onto one slide.",
+      "files": [],
+      "assertions": [
+        "valid_json: deck.json parses as valid JSON",
+        "slide_count_in_range: top-level slides array has 3-6 entries",
+        "opens_with_title_slide: slides[0].type === \"TitleSlide\"",
+        "all_types_recognized: scripts/validate_deck.js exits 0 against this deck",
+        "has_key_metric: deck text contains both \"41%\" and \"63%\"",
+        "no_single_bullet_dump: the 7 source bullets are not all crammed as literal list items onto one single slide's content array (qualitative + structural)",
+        "narrative_restructuring: notes/headlines reframe the retro bullets into a deck narrative rather than copy-pasting them verbatim (qualitative)"
+      ]
+    }
+  ]
+}
